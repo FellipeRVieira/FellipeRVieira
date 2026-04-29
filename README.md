@@ -10,9 +10,6 @@ Ao longo da minha tragetória, desenvolvi conhecimentos em:
 
   🎓 Atualmente, estou cursando o ensino superior em **Análise e Desenvolvimento  de Sistemas** pela **UVV - Espírito Santo**, na modalidade **Ensino a Distância (EAD)**.
 
-  ---
-
-  ## 📊 Estatísticas
 <p align="left">
     <a href="https://github.com/FellipeRVieira?tab=repositories&sort=stargazers">
         <img 
