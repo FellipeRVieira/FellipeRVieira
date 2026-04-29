@@ -2,9 +2,17 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Fellipe dos Reis Vieira, tenho 23 anos e nasci em Colatina - ES. Concluí o ensino médio na EEEFM Honório Fraga, juntamente com o curso técnico em informática. Ao longo da minha formação, busquei apromirar meus conhecimentos na área da tecnologia, cursando Técnico em Manutenção e Suporte em Informática pelo IFES - Campus Colatina e também Programação Web pelo IFES - Campos Cachoeiro de Itapemirim.
-Atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas pela UVV (Espírito Santo), na modalidade de Ensino a Distância (EAD).
+Sou profissional da área de tecnologia com formação técnica em Informática.
+Ao longo da minha tragetória, desenvolvi conhecimentos em:
 
+- 🛠 Manutenção e Suporte em Informática (IFES - Campus Colatina)
+- 🌐 Programação Web (IFES - Campus Cachoeiro de Itapemirim)
+
+  🎓 Atualmente, estou cursando o ensino superior em **Análise e Desenvolvimento  de Sistemas** pela **UVV - Espírito Santo**, na modalidade **Ensino a Distância (EAD)**.
+
+  ---
+
+  ## 📊 Estatísticas
 <p align="left">
     <a href="https://github.com/FellipeRVieira?tab=repositories&sort=stargazers">
         <img 
